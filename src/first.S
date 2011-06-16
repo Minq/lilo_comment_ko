@@ -1,6 +1,6 @@
 #if 0
 ;  first.S  -  LILO first stage boot loader with LBA32 support */
-Copyright 1992-1998 Werner Almesberger.
+Copyright 1992-1998 Werner Almesberger. 테스트
 Copyright 1999-2005 John Coffman.
 All rights reserved.
 
